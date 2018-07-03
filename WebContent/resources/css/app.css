@@ -1,0 +1,23 @@
+html {
+    position: relative;
+    min-height: 100%;
+
+}
+body {
+	background-color: #e5e5ff;
+
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin-top:100px;
+    height: 90px;
+    width: 100%;
+	background-color: #404040;
+	<!-- <footer></footer> -->
+	
+}
+#whiteText {
+    color: white;
+} 
